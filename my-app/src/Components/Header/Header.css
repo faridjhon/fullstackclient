@@ -1,0 +1,42 @@
+.header{
+    border: 2px solid black;
+    height: 300px;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+
+.title-container{
+    margin-left: 50px;
+    color: rgba(255, 255, 255, 0.877);
+    
+    
+    
+}
+.nav{
+    margin-left: 700px;
+    margin-top: 20px;
+    
+}
+.nav li{
+    display: inline;
+    margin-left: 10px;
+    
+    
+  }
+  
+  .nav a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.877);
+    font-weight: bold;
+  }
+
+
+  .headerstyle{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+.font-size{
+    font-size: 900px;
+}
